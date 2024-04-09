@@ -1,5 +1,5 @@
 # Hijaukan-Bumi
-## Hamster-Team
+## Team : Hamster-Team
 
 "Hijaukan Bumi" dirancang sebagai sumber terpercaya untuk memeriksa dan memverifikasi kebenaran berita, khususnya yang berkaitan dengan isu lingkungan. Di tengah maraknya informasi yang beredar di era digital ini, seringkali sulit bagi individu untuk membedakan antara fakta dan fiksi. Dengan munculnya berita palsu atau hoax, terutama yang berhubungan dengan isu lingkungan, tantangan ini menjadi semakin kompleks dan mengkhawatirkan. Hoax lingkungan tidak hanya menyesatkan masyarakat, tetapi juga berpotensi membahayakan upaya pelestarian lingkungan dan mempengaruhi kebijakan publik secara negatif.
 
@@ -12,3 +12,11 @@ Di "Hijaukan Bumi", kami percaya bahwa akses ke informasi yang akurat dan teperc
 ### Tautan Penting
 - **Link Release**: [hijaukanbumi.oxigenutb.web.id](https://hijaukanbumi.oxigenutb.web.id/)
 - **Telegram Bot**: [HijaukanBumi_bot](https://t.me/HijaukanBumi_bot)
+
+### Contribusi
+- Rizal Sujana
+- Asep Sutrisna Suhada Putra
+- Esa Kurniawan Putra
+- Febrina Qoonitah
+- Gilang Nur Rizki
+
