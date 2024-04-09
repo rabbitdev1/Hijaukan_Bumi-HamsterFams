@@ -1,0 +1,26 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Pengecualian untuk direktori /bot
+RewriteCond %{REQUEST_URI} ^/bot/ [NC]
+RewriteRule ^ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule . /index.html [L]
+</IfModule>
+
+ErrorDocument 404 /404.php
+
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php56___lsphp .php .php5 .phtml
+</IfModule>
+
+
+
