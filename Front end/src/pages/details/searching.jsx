@@ -132,7 +132,11 @@ function SearchingPAges() {
             </div>
         </div>
         <div className="md:flex hidden flex-col items-center basis-5/12 xl:basis-4/12  relative">
-          <div className="bg-[#B2C3FF] rounded-full w-full aspect-square "></div>
+        <img
+              alt="ornamen_1"
+              src={require("../../assets/image/people.png")}
+              className="w-full h-full object-contain  pointer-events-none"
+            />
           <motion.div
             animate={{
               x: [0, -5, 0],
