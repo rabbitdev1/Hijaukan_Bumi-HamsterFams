@@ -1,5 +1,5 @@
 # Hijaukan-Bumi
-## Team : Hamster-Team
+## Team : HamsterFams
 
 "Hijaukan Bumi" dirancang sebagai sumber terpercaya untuk memeriksa dan memverifikasi kebenaran berita, khususnya yang berkaitan dengan isu lingkungan. Di tengah maraknya informasi yang beredar di era digital ini, seringkali sulit bagi individu untuk membedakan antara fakta dan fiksi. Dengan munculnya berita palsu atau hoax, terutama yang berhubungan dengan isu lingkungan, tantangan ini menjadi semakin kompleks dan mengkhawatirkan. Hoax lingkungan tidak hanya menyesatkan masyarakat, tetapi juga berpotensi membahayakan upaya pelestarian lingkungan dan mempengaruhi kebijakan publik secara negatif.
 
