@@ -58,7 +58,7 @@ def cek_berita_api(update, context):
                     f"Judul: {article['title']}\n"
                     f"Isi: {summary}\n"
                     f"Sumber: {article['source']}\n"
-                    f"Lihat Lebih Detail: https://temukanhoax.oxigenutb.web.id/detail/{article['slug']}"
+                    f"Lihat Lebih Detail: https://hijaukanbumi.oxigenutb.web.id/detail/{article['slug']}"
                 )
                 # Kirim gambar sebagai media
                 job = context.job_queue.run_once(
